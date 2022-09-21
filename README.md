@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RecluterITVC
-- 👀 I’m interested in  conocer las diferentes tecnologias del mundo it
+- 👀 I’m interesada in  conocer las diferentes tecnologias del mundo it
 - 🌱 I’m currently  trabajando como reclutadora  it
 - 💞️ I’m looking to collaborate  con los desarrolladores  que se encuentren en busqueda activa  en posicion RubyonRails+React
 - 📫 How to reach me  enviame  notificacion.Gracias
